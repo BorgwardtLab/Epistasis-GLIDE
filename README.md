@@ -8,8 +8,7 @@ exhaustive pairwise interaction search on a CUDA enabled GPU.
 
 For a detailed description of the setting and the search algorithm, please refer to the associated paper:  
 
-* T. Kam-Thong, C.-A. Azencott, L. Cayton, B. Puetz, A. Altmann, N. Karbalai, P. G. Saemann, B. Schoelkopf, B. Mueller-Myhsok, and K. M. Borgwardt. (2012) **GLIDE: GPU-Based Linear Regression for Detection of Epistasis**. _Human Heredity_, 73 (4) 2012.
-
+* T. Kam-Thong, C.-A. Azencott, L. Cayton, B. Puetz, A. Altmann, N. Karbalai, P. G. Saemann, B. Schoelkopf, B. Mueller-Myhsok, and K. M. Borgwardt. (2012) **GLIDE: GPU-Based Linear Regression for Detection of Epistasis**. _Human Heredity_, 73 (4), 220-236 [link](http://www.karger.com/Article/FullText/341885)
 
 [//]: # ([1] T. Kam-Thong, C.-A. Azencott, L. Cayton, B. Pütz, A. Altmann, P. G. Sämann, B. Schölkopf, B. Müller-Myhsok and K. M. Borgwardt 2012 **GLIDE: GPU-based linear regression for detection of epistasis** Human Heredity, 73, 220-236)
 
