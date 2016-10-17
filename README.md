@@ -6,7 +6,7 @@
 This program is a C and CUDA implementation of tabulating linear regression for an
 exhaustive pairwise interaction search on a CUDA enabled GPU.  
 
-For a detailed description of the setting and the search algorithm, please refer to the associated paper:  
+For a detailed description of the setting and the search algorithm, [please refer to the associated paper](http://www.karger.com/Article/FullText/341885):  
 
 * T. Kam-Thong, C.-A. Azencott, L. Cayton, B. Puetz, A. Altmann, N. Karbalai, P. G. Saemann, B. Schoelkopf, B. Mueller-Myhsok, and K. M. Borgwardt. (2012) **GLIDE: GPU-Based Linear Regression for Detection of Epistasis**. _Human Heredity_, 73 (4), 220-236 [link](http://www.karger.com/Article/FullText/341885)
 
