@@ -147,6 +147,5 @@ along with this program.  If not, see [http://www.gnu.org/licenses/](http://www.
 
 ## Contact
 
-For any questions, please contact Tony Kam-Thong at: tony@mpipsykl.mpg.de
-
+For any questions, please contact Tony Kam-Thong at: tkamth@gmail.com
 
