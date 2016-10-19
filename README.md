@@ -6,7 +6,7 @@
 This program is a C and CUDA implementation of tabulating linear regression for an
 exhaustive pairwise interaction search on a CUDA enabled GPU.  
 
-There is also a Python implementation in [this repository](https://github.com/chagaz/glide-scripts), which is also [forked here](https://github.com/BorgwardtLab/glide-scripts).
+There is also a Python implementation in [this repository](https://github.com/chagaz/glide-scripts), which is also [forked here](https://github.com/BorgwardtLab/glide-python).
 
 
 For a detailed description of the setting and the search algorithm, [please refer to the associated paper](http://www.karger.com/Article/FullText/341885):  
